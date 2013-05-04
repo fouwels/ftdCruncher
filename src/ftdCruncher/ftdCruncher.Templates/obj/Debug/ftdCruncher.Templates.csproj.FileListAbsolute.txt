@@ -1,0 +1,10 @@
+F:\ftdCruncher\src\ftdCruncher\ftdCruncher.Templates\bin\Debug\ftdCruncher.Templates.dll
+F:\ftdCruncher\src\ftdCruncher\ftdCruncher.Templates\bin\Debug\ftdCruncher.Templates.pdb
+F:\ftdCruncher\src\ftdCruncher\ftdCruncher.Templates\bin\Debug\ftdCruncher.Templates.pri
+F:\ftdCruncher\src\ftdCruncher\ftdCruncher.Templates\obj\Debug\ftdCruncher.Templates.dll
+F:\ftdCruncher\src\ftdCruncher\ftdCruncher.Templates\obj\Debug\ftdCruncher.Templates.pdb
+F:\ftdCruncher\src\ftdCruncher\ftdCruncher.Templates\obj\Debug\priconfig.xml
+F:\ftdCruncher\src\ftdCruncher\ftdCruncher.Templates\obj\Debug\layout.resfiles
+F:\ftdCruncher\src\ftdCruncher\ftdCruncher.Templates\obj\Debug\resources.resfiles
+F:\ftdCruncher\src\ftdCruncher\ftdCruncher.Templates\obj\Debug\pri.resfiles
+F:\ftdCruncher\src\ftdCruncher\ftdCruncher.Templates\obj\Debug\LanguageQualifiers.txt

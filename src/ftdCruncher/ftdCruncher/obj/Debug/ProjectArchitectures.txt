@@ -1,0 +1,4 @@
+F:\ftdCruncher\src\ftdCruncher\ftdCruncher.data\ftdCruncher.Data.csproj;neutral
+F:\ftdCruncher\src\ftdCruncher\ftdCruncher.Templates\ftdCruncher.Templates.csproj;neutral
+F:\ftdCruncher\src\ftdCruncher\ftdCruncher.Templates\ftdCruncher.Templates.csproj;neutral
+F:\ftdCruncher\src\ftdCruncher\ftdCruncher\ftdCruncher.csproj;neutral

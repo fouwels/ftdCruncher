@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>GREENV4</Machine>
+    <WindowsUser>Kaelan</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>037C95904165A80DA27F5852A2DA565BB07002E6DD100E366A0351CA171FBD24</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>b4a49729-312f-41d1-98ef-d522588c9b2f_1.0.0.0_neutral__v12sgy5srznny</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>b4a49729-312f-41d1-98ef-d522588c9b2f_v12sgy5srznny!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>b4a49729-312f-41d1-98ef-d522588c9b2f</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Kaelan</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="F:\ftdCruncher\src\ftdCruncher\ftdCruncher\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-05-04T14:13:31.756</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="F:\ftdCruncher\src\ftdCruncher\ftdCruncher\bin\Debug\ftdCruncher.exe">
+      <PackagePath>ftdCruncher.exe</PackagePath>
+      <Modified>2013-05-04T14:18:55.258</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\ftdCruncher\src\ftdCruncher\ftdCruncher\bin\Debug\ftdCruncher.pdb">
+      <PackagePath>ftdCruncher.pdb</PackagePath>
+      <Modified>2013-05-04T14:18:55.225</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\ftdCruncher\src\ftdCruncher\ftdCruncher.data\bin\Debug\ftdCruncher.data.pdb">
+      <PackagePath>ftdCruncher.data.pdb</PackagePath>
+      <Modified>2013-05-04T13:06:46.959</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\ftdCruncher\src\ftdCruncher\ftdCruncher.Templates\bin\Debug\ftdCruncher.Templates.pdb">
+      <PackagePath>ftdCruncher.Templates.pdb</PackagePath>
+      <Modified>2013-05-04T13:06:46.448</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\ftdCruncher\src\ftdCruncher\ftdCruncher.data\bin\Debug\ftdCruncher.data.dll">
+      <PackagePath>ftdCruncher.data.dll</PackagePath>
+      <Modified>2013-05-04T13:06:46.989</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\ftdCruncher\src\ftdCruncher\ftdCruncher.Templates\bin\Debug\ftdCruncher.Templates.dll">
+      <PackagePath>ftdCruncher.Templates.dll</PackagePath>
+      <Modified>2013-05-04T13:06:46.482</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\ftdCruncher\src\ftdCruncher\ftdCruncher\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T19:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\ftdCruncher\src\ftdCruncher\ftdCruncher\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T19:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\ftdCruncher\src\ftdCruncher\ftdCruncher\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T19:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\ftdCruncher\src\ftdCruncher\ftdCruncher\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T19:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\ftdCruncher\src\ftdCruncher\ftdCruncher\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2013-05-04T12:32:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\ftdCruncher\src\ftdCruncher\ftdCruncher\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-06-26T15:19:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\ftdCruncher\src\ftdCruncher\ftdCruncher\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+      <Modified>2013-05-04T14:18:53.611</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\ftdCruncher\src\ftdCruncher\ftdCruncher\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2013-05-04T12:43:10.000</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
