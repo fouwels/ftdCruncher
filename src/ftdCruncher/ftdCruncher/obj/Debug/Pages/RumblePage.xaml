@@ -8,6 +8,11 @@
     mc:Ignorable="d">
 
     <Grid Background="{StaticResource ApplicationPageBackgroundThemeBrush}">
+        <Grid.ChildrenTransitions>
+            <TransitionCollection>
+                <ContentThemeTransition/>
+            </TransitionCollection>
+        </Grid.ChildrenTransitions>
         <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center">
             <TextBlock x:Name="StatusMessage" Text="Unset"  Style="{StaticResource HeaderTextStyle}"/>
             <ProgressRing x:Name="TheProgressRing" Margin="20"/>

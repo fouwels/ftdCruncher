@@ -25,11 +25,23 @@
     <AppxPackagedFile Include="F:\ftdCruncher\src\ftdCruncher\ftdCruncher.Templates\bin\Debug\ftdCruncher.Templates.pdb">
       <PackagePath>ftdCruncher.Templates.pdb</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\ftdCruncher\src\ftdCruncher\ftdCruncher.Services\bin\Debug\ftdCruncher.Services.pdb">
+      <PackagePath>ftdCruncher.Services.pdb</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="F:\ftdCruncher\src\ftdCruncher\ftdCruncher.data\bin\Debug\ftdCruncher.data.dll">
       <PackagePath>ftdCruncher.data.dll</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\ftdCruncher\src\ftdCruncher\ftdCruncher.Services\bin\Debug\ftdCruncher.Services.dll">
+      <PackagePath>ftdCruncher.Services.dll</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="F:\ftdCruncher\src\ftdCruncher\ftdCruncher.Templates\bin\Debug\ftdCruncher.Templates.dll">
       <PackagePath>ftdCruncher.Templates.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\ftdCruncher\src\ftdCruncher\ftdCruncher.Services\bin\Debug\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\ftdCruncher\src\ftdCruncher\ftdCruncher.Services\bin\Debug\Newtonsoft.Json.xml">
+      <PackagePath>Newtonsoft.Json.xml</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="F:\ftdCruncher\src\ftdCruncher\ftdCruncher\Assets\Logo.png">
       <PackagePath>Assets\Logo.png</PackagePath>
@@ -52,6 +64,9 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="F:\ftdCruncher\src\ftdCruncher\ftdCruncher\bin\Debug\Common\StandardStyles.xaml">
       <PackagePath>Common\StandardStyles.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\ftdCruncher\src\ftdCruncher\ftdCruncher\bin\Debug\Pages\ComparePage.xaml">
+      <PackagePath>Pages\ComparePage.xaml</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="F:\ftdCruncher\src\ftdCruncher\ftdCruncher\bin\Debug\Pages\MainPage.xaml">
       <PackagePath>Pages\MainPage.xaml</PackagePath>

@@ -1,0 +1,16 @@
+F:\ftdCruncher\src\ftdCruncher\ftdCruncher.Services\obj\Debug\ftdCruncher.Services.csprojResolveAssemblyReference.cache
+F:\ftdCruncher\src\ftdCruncher\ftdCruncher.Services\bin\Debug\ftdCruncher.Services.dll
+F:\ftdCruncher\src\ftdCruncher\ftdCruncher.Services\bin\Debug\ftdCruncher.Services.pdb
+F:\ftdCruncher\src\ftdCruncher\ftdCruncher.Services\bin\Debug\ftdCruncher.Services.pri
+F:\ftdCruncher\src\ftdCruncher\ftdCruncher.Services\bin\Debug\ftdCruncher.Templates.dll
+F:\ftdCruncher\src\ftdCruncher\ftdCruncher.Services\bin\Debug\Newtonsoft.Json.dll
+F:\ftdCruncher\src\ftdCruncher\ftdCruncher.Services\bin\Debug\ftdCruncher.Templates.pdb
+F:\ftdCruncher\src\ftdCruncher\ftdCruncher.Services\bin\Debug\ftdCruncher.Templates.pri
+F:\ftdCruncher\src\ftdCruncher\ftdCruncher.Services\bin\Debug\Newtonsoft.Json.xml
+F:\ftdCruncher\src\ftdCruncher\ftdCruncher.Services\obj\Debug\ftdCruncher.Services.dll
+F:\ftdCruncher\src\ftdCruncher\ftdCruncher.Services\obj\Debug\ftdCruncher.Services.pdb
+F:\ftdCruncher\src\ftdCruncher\ftdCruncher.Services\obj\Debug\priconfig.xml
+F:\ftdCruncher\src\ftdCruncher\ftdCruncher.Services\obj\Debug\layout.resfiles
+F:\ftdCruncher\src\ftdCruncher\ftdCruncher.Services\obj\Debug\resources.resfiles
+F:\ftdCruncher\src\ftdCruncher\ftdCruncher.Services\obj\Debug\pri.resfiles
+F:\ftdCruncher\src\ftdCruncher\ftdCruncher.Services\obj\Debug\LanguageQualifiers.txt

@@ -4,5 +4,6 @@ Assets\SplashScreen.png
 Assets\StoreLogo.png
 App.xaml
 Common\StandardStyles.xaml
+Pages\ComparePage.xaml
 Pages\MainPage.xaml
 Pages\RumblePage.xaml

@@ -11,6 +11,7 @@ using Windows.UI.Xaml.Data;
 using Windows.UI.Xaml.Input;
 using Windows.UI.Xaml.Media;
 using Windows.UI.Xaml.Navigation;
+using ftdCruncher.Pages;
 using ftdCruncher.Templates;
 using ftdCruncher.data;
 
@@ -69,6 +70,14 @@ namespace ftdCruncher
                 });
 
             MainContentWindow.DataContext = FilingCabinet.CountryProfiles;
+        }
+
+        private void MainContentWindow_OnTapped(object sender, TappedRoutedEventArgs e)
+        {
+            var fr = new Frame();
+            fr.Navigate(typeof(ComparePage));
+            Window.Current.Content = fr;
+            Window.Current.Activate();
         }
     }
 }

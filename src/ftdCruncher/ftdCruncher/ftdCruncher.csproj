@@ -105,6 +105,10 @@
       <Project>{bf3fae18-3df0-4cb7-86fb-cd8783c94e47}</Project>
       <Name>ftdCruncher.Data</Name>
     </ProjectReference>
+    <ProjectReference Include="..\ftdCruncher.Services\ftdCruncher.Services.csproj">
+      <Project>{603d4356-8bb4-49fc-a526-6b3049d68b41}</Project>
+      <Name>ftdCruncher.Services</Name>
+    </ProjectReference>
     <ProjectReference Include="..\ftdCruncher.Templates\ftdCruncher.Templates.csproj">
       <Project>{445fa995-869b-4186-9f67-ef0add437151}</Project>
       <Name>ftdCruncher.Templates</Name>
@@ -113,6 +117,9 @@
   <ItemGroup>
     <Compile Include="App.xaml.cs">
       <DependentUpon>App.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\ComparePage.xaml.cs">
+      <DependentUpon>ComparePage.xaml</DependentUpon>
     </Compile>
     <Compile Include="Pages\MainPage.xaml.cs">
       <DependentUpon>MainPage.xaml</DependentUpon>
@@ -142,6 +149,10 @@
     <Page Include="Common\StandardStyles.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Pages\ComparePage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
     </Page>
     <Page Include="Pages\MainPage.xaml">
       <Generator>MSBuild:Compile</Generator>

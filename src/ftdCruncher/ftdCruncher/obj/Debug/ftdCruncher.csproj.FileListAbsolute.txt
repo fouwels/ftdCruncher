@@ -36,3 +36,11 @@ F:\ftdCruncher\src\ftdCruncher\ftdCruncher\obj\Debug\priconfig.xml.intermediate
 F:\ftdCruncher\src\ftdCruncher\ftdCruncher\obj\Debug\layout.resfiles.intermediate
 F:\ftdCruncher\src\ftdCruncher\ftdCruncher\obj\Debug\resources.resfiles.intermediate
 F:\ftdCruncher\src\ftdCruncher\ftdCruncher\obj\Debug\pri.resfiles.intermediate
+F:\ftdCruncher\src\ftdCruncher\ftdCruncher\obj\Debug\Pages\ComparePage.g.i.cs
+F:\ftdCruncher\src\ftdCruncher\ftdCruncher\obj\Debug\Pages\ComparePage.g.cs
+F:\ftdCruncher\src\ftdCruncher\ftdCruncher\obj\Debug\Pages\ComparePage.xaml
+F:\ftdCruncher\src\ftdCruncher\ftdCruncher\bin\Debug\ftdCruncher.Services.dll
+F:\ftdCruncher\src\ftdCruncher\ftdCruncher\bin\Debug\Newtonsoft.Json.dll
+F:\ftdCruncher\src\ftdCruncher\ftdCruncher\bin\Debug\ftdCruncher.Services.pdb
+F:\ftdCruncher\src\ftdCruncher\ftdCruncher\bin\Debug\ftdCruncher.Services.pri
+F:\ftdCruncher\src\ftdCruncher\ftdCruncher\bin\Debug\Newtonsoft.Json.xml

@@ -8,3 +8,7 @@ F:\ftdCruncher\src\ftdCruncher\ftdCruncher.Templates\obj\Debug\layout.resfiles
 F:\ftdCruncher\src\ftdCruncher\ftdCruncher.Templates\obj\Debug\resources.resfiles
 F:\ftdCruncher\src\ftdCruncher\ftdCruncher.Templates\obj\Debug\pri.resfiles
 F:\ftdCruncher\src\ftdCruncher\ftdCruncher.Templates\obj\Debug\LanguageQualifiers.txt
+F:\ftdCruncher\src\ftdCruncher\ftdCruncher.Templates\obj\Debug\priconfig.xml.intermediate
+F:\ftdCruncher\src\ftdCruncher\ftdCruncher.Templates\obj\Debug\layout.resfiles.intermediate
+F:\ftdCruncher\src\ftdCruncher\ftdCruncher.Templates\obj\Debug\resources.resfiles.intermediate
+F:\ftdCruncher\src\ftdCruncher\ftdCruncher.Templates\obj\Debug\pri.resfiles.intermediate

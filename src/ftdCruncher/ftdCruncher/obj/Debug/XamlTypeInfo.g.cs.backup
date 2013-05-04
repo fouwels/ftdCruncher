@@ -112,9 +112,11 @@ namespace ftdCruncher.ftdCruncher_XamlTypeInfo
             }
         }
 
-        private object Activate_0_MainPage() { return new global::ftdCruncher.MainPage(); }
+        private object Activate_0_ComparePage() { return new global::ftdCruncher.Pages.ComparePage(); }
 
-        private object Activate_1_RumblePage() { return new global::ftdCruncher.Pages.RumblePage(); }
+        private object Activate_1_MainPage() { return new global::ftdCruncher.MainPage(); }
+
+        private object Activate_2_RumblePage() { return new global::ftdCruncher.Pages.RumblePage(); }
 
 
         private global::Windows.UI.Xaml.Markup.IXamlType CreateXamlType(string typeName)
@@ -132,15 +134,21 @@ namespace ftdCruncher.ftdCruncher_XamlTypeInfo
                 xamlType = new global::ftdCruncher.ftdCruncher_XamlTypeInfo.XamlSystemBaseType(typeName, typeof(global::Windows.UI.Xaml.Controls.UserControl));
                 break;
 
+            case "ftdCruncher.Pages.ComparePage":
+                userType = new global::ftdCruncher.ftdCruncher_XamlTypeInfo.XamlUserType(this, typeName, typeof(global::ftdCruncher.Pages.ComparePage), GetXamlTypeByName("Windows.UI.Xaml.Controls.Page"));
+                userType.Activator = Activate_0_ComparePage;
+                xamlType = userType;
+                break;
+
             case "ftdCruncher.MainPage":
                 userType = new global::ftdCruncher.ftdCruncher_XamlTypeInfo.XamlUserType(this, typeName, typeof(global::ftdCruncher.MainPage), GetXamlTypeByName("Windows.UI.Xaml.Controls.Page"));
-                userType.Activator = Activate_0_MainPage;
+                userType.Activator = Activate_1_MainPage;
                 xamlType = userType;
                 break;
 
             case "ftdCruncher.Pages.RumblePage":
                 userType = new global::ftdCruncher.ftdCruncher_XamlTypeInfo.XamlUserType(this, typeName, typeof(global::ftdCruncher.Pages.RumblePage), GetXamlTypeByName("Windows.UI.Xaml.Controls.Page"));
-                userType.Activator = Activate_1_RumblePage;
+                userType.Activator = Activate_2_RumblePage;
                 xamlType = userType;
                 break;
 
