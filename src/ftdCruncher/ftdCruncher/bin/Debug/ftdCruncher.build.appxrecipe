@@ -53,8 +53,11 @@
     <AppxPackagedFile Include="F:\ftdCruncher\src\ftdCruncher\ftdCruncher\bin\Debug\Common\StandardStyles.xaml">
       <PackagePath>Common\StandardStyles.xaml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\ftdCruncher\src\ftdCruncher\ftdCruncher\bin\Debug\MainPage.xaml">
-      <PackagePath>MainPage.xaml</PackagePath>
+    <AppxPackagedFile Include="F:\ftdCruncher\src\ftdCruncher\ftdCruncher\bin\Debug\Pages\MainPage.xaml">
+      <PackagePath>Pages\MainPage.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\ftdCruncher\src\ftdCruncher\ftdCruncher\bin\Debug\Pages\RumblePage.xaml">
+      <PackagePath>Pages\RumblePage.xaml</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="F:\ftdCruncher\src\ftdCruncher\ftdCruncher\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>

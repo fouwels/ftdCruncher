@@ -114,6 +114,8 @@ namespace ftdCruncher.ftdCruncher_XamlTypeInfo
 
         private object Activate_0_MainPage() { return new global::ftdCruncher.MainPage(); }
 
+        private object Activate_1_RumblePage() { return new global::ftdCruncher.Pages.RumblePage(); }
+
 
         private global::Windows.UI.Xaml.Markup.IXamlType CreateXamlType(string typeName)
         {
@@ -133,6 +135,12 @@ namespace ftdCruncher.ftdCruncher_XamlTypeInfo
             case "ftdCruncher.MainPage":
                 userType = new global::ftdCruncher.ftdCruncher_XamlTypeInfo.XamlUserType(this, typeName, typeof(global::ftdCruncher.MainPage), GetXamlTypeByName("Windows.UI.Xaml.Controls.Page"));
                 userType.Activator = Activate_0_MainPage;
+                xamlType = userType;
+                break;
+
+            case "ftdCruncher.Pages.RumblePage":
+                userType = new global::ftdCruncher.ftdCruncher_XamlTypeInfo.XamlUserType(this, typeName, typeof(global::ftdCruncher.Pages.RumblePage), GetXamlTypeByName("Windows.UI.Xaml.Controls.Page"));
+                userType.Activator = Activate_1_RumblePage;
                 xamlType = userType;
                 break;
 
