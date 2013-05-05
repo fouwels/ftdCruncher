@@ -37,11 +37,8 @@
     <AppxPackagedFile Include="F:\ftdCruncher\src\ftdCruncher\ftdCruncher.Templates\bin\Debug\ftdCruncher.Templates.dll">
       <PackagePath>ftdCruncher.Templates.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\ftdCruncher\src\ftdCruncher\ftdCruncher.Services\bin\Debug\Newtonsoft.Json.dll">
+    <AppxPackagedFile Include="F:\ftdCruncher\src\ftdCruncher\packages\Newtonsoft.Json.5.0.4\lib\netcore45\Newtonsoft.Json.dll">
       <PackagePath>Newtonsoft.Json.dll</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\ftdCruncher\src\ftdCruncher\ftdCruncher.Services\bin\Debug\Newtonsoft.Json.xml">
-      <PackagePath>Newtonsoft.Json.xml</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="F:\ftdCruncher\src\ftdCruncher\ftdCruncher\Assets\Logo.png">
       <PackagePath>Assets\Logo.png</PackagePath>
@@ -73,6 +70,9 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="F:\ftdCruncher\src\ftdCruncher\ftdCruncher\bin\Debug\Pages\RumblePage.xaml">
       <PackagePath>Pages\RumblePage.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\ftdCruncher\src\ftdCruncher\packages\Newtonsoft.Json.5.0.4\lib\netcore45\Newtonsoft.Json.xml">
+      <PackagePath>Newtonsoft.Json.xml</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="F:\ftdCruncher\src\ftdCruncher\ftdCruncher\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>

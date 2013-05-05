@@ -24,51 +24,129 @@ namespace ftdCruncher
         public MainPage()
         {
             this.InitializeComponent();
+            FilingCabinet.CountryProfiles.Clear();
+            FilingCabinet.CountryProfiles.Add(new CountryProfile
+            {
+                Name = "Albania",
+                LatestYear = 2009,
+                Oil_Production = 3467500,
+                Oil_Price = 0,
+                Gas_Production = 0,
+                Gas_Price = 0
+            });
+            FilingCabinet.CountryProfiles.Add(new CountryProfile
+            {
+                Name = "Azerbaijan",
+                LatestYear = 2010,
+                Oil_Production = 0,
+                Oil_Price = 79.5,
+                Gas_Production = 0,
+                Gas_Price = 0
+            });
+            FilingCabinet.CountryProfiles.Add(new CountryProfile
+            {
+                Name = "Congo",
+                LatestYear = 2007,
+                Oil_Production = 8086940,
+                Oil_Price = 0,
+                Gas_Production = 0,
+                Gas_Price = 0
+            });
+            FilingCabinet.CountryProfiles.Add(new CountryProfile
+            {
+                Name = "Guinea",
+                LatestYear = 2006,
+                Oil_Production = 87000000,
+                Oil_Price = 70,
+                Gas_Production = 0,
+                Gas_Price = 0
+            });
+            FilingCabinet.CountryProfiles.Add(new CountryProfile
+            {
+                Name = "Ivory Coast",
+                LatestYear = 2007,
+                Oil_Production = 17500000,
+                Oil_Price = 70.93,
+                Gas_Production = 13808369722,
+                Gas_Price = 0.227647
+            });
+            FilingCabinet.CountryProfiles.Add(new CountryProfile
+            {
+                Name = "Kazakhstan",
+                LatestYear = 2009,
+                Oil_Production = 616120000,
+                Oil_Price = 61.66,
+                Gas_Production = 32500000000,
+                Gas_Price = 0
+            });
+            FilingCabinet.CountryProfiles.Add(new CountryProfile
+            {
+                Name = "Kyrgyzstan",
+                LatestYear = 2009,
+                Oil_Production = 0,
+                Oil_Price = 61.66,
+                Gas_Production = 0,
+                Gas_Price = 0
+            });
+            FilingCabinet.CountryProfiles.Add(new CountryProfile
+            {
+                Name = "Mauritania",
+                LatestYear = 2009,
+                Oil_Production = 1870000,
+                Oil_Price = 61.66,
+                Gas_Production = 3037000000,
+                Gas_Price = 0
+            });
+            FilingCabinet.CountryProfiles.Add(new CountryProfile
+            {
+                Name = "Mongolia",
+                LatestYear = 2009,
+                Oil_Production = 1870000,
+                Oil_Price = 61.66,
+                Gas_Production = 0,
+                Gas_Price = 0
+            });
+            FilingCabinet.CountryProfiles.Add(new CountryProfile
+            {
+                Name = "Mozambiq.",
+                LatestYear = 2008,
+                Oil_Production = 0,
+                Oil_Price = 0,
+                Gas_Production = 3037000000,
+                Gas_Price = 0
+            });
+            FilingCabinet.CountryProfiles.Add(new CountryProfile
+            {
+                Name = "Nigeria",
+                LatestYear = 2008,
+                Oil_Production = 774456000,
+                Oil_Price = 101.43,
+                Gas_Production = 35000000000,
+                Gas_Price = 0.328797
+            });
+
+            FilingCabinet.CountryProfiles.Add(new CountryProfile
+            {
+                Name = "Norway",
+                LatestYear = 2009,
+                Oil_Production = 854830000,
+                Oil_Price = 61.66,
+                Gas_Production = 2661781071,
+                Gas_Price = 0.227647
+            });
+
+            FilingCabinet.CountryProfiles.Add(new CountryProfile
+            {
+                Name = "Peru",
+                LatestYear = 200,
+                Oil_Production = 774456000,
+                Oil_Price = 101.43,
+                Gas_Production = 35000000000,
+                Gas_Price = 0.328797
+            });
         }
         protected override void OnNavigatedTo(NavigationEventArgs e)
         {
-            var rnd = new Random();
-            FilingCabinet.CountryProfiles.Add(new CountryProfile
-                {
-                    Name = "Country1",
-                    Thing1 = rnd.Next(0, 101),
-                    Thing2 = rnd.Next(0, 101),
-                    Thing3 = rnd.Next(0, 101),
-                    Thing4 = rnd.Next(0, 101)
-                });
-            FilingCabinet.CountryProfiles.Add(new CountryProfile
-                {
-                    Name = "Country2",
-                    Thing1 = rnd.Next(0, 101),
-                    Thing2 = rnd.Next(0, 101),
-                    Thing3 = rnd.Next(0, 101),
-                    Thing4 = rnd.Next(0, 101)
-                });
-            FilingCabinet.CountryProfiles.Add(new CountryProfile
-                {
-                    Name = "Country3",
-                    Thing1 = rnd.Next(0, 101),
-                    Thing2 = rnd.Next(0, 101),
-                    Thing3 = rnd.Next(0, 101),
-                    Thing4 = rnd.Next(0, 101)
-                });
-            FilingCabinet.CountryProfiles.Add(new CountryProfile
-                {
-                    Name = "Country4",
-                    Thing1 = rnd.Next(0, 101),
-                    Thing2 = rnd.Next(0, 101),
-                    Thing3 = rnd.Next(0, 101),
-                    Thing4 = rnd.Next(0, 101)
-                });
-            FilingCabinet.CountryProfiles.Add(new CountryProfile
-                {
-                    Name = "Country5",
-                    Thing1 = rnd.Next(0, 101),
-                    Thing2 = rnd.Next(0, 101),
-                    Thing3 = rnd.Next(0, 101),
-                    Thing4 = rnd.Next(0, 101)
-                });
-
             MainContentWindow.DataContext = FilingCabinet.CountryProfiles;
         }
 

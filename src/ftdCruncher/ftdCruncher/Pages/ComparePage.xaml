@@ -37,14 +37,16 @@
             </Grid.ColumnDefinitions>
             <StackPanel Grid.Column="1" Grid.Row="1">
                 <TextBlock Text="{Binding Name}" Style="{StaticResource HeaderTextStyle}" Margin="10,0,0,20"/>
-                <TextBlock Text="Thing1: "/>
-                <TextBox TextAlignment="Center" Text="{Binding Thing1}" Margin="10,2,10,10"/>
-                <TextBlock  Text="Thing2: "/>
-                <TextBox TextAlignment="Center" Text="{Binding Thing2}" Margin="10,2,10,10"/>
-                <TextBlock  Text="Thing3: "/>
-                <TextBox TextAlignment="Center" Text="{Binding Thing3}" Margin="10,2,10,10"/>
-                <TextBlock  Text="Thing4: "/>
-                <TextBox TextAlignment="Center" Text="{Binding Thing4}" Margin="10,2,10,10"/>
+                <TextBlock Text="Latest Record (year): "/>
+                <TextBox TextAlignment="Center" Text="{Binding LatestYear}" Margin="10,2,10,10" IsReadOnly="True"/>
+                <TextBlock  Text="Oil - Produced: "/>
+                <TextBox TextAlignment="Center" Text="{Binding Oil_Production}" Margin="10,2,10,10" IsReadOnly="True"/>
+                <TextBlock  Text="Oil - Price.: "/>
+                <TextBox TextAlignment="Center" Text="{Binding Oil_Price}" Margin="10,2,10,10" IsReadOnly="True"/>
+                <TextBlock  Text="Gas - Produced: "/>
+                <TextBox TextAlignment="Center" Text="{Binding Gas_Production}" Margin="10,2,10,10" IsReadOnly="True"/>
+                <TextBlock  Text="Gas - Price: "/>
+                <TextBox TextAlignment="Center" Text="{Binding Gas_Price}" Margin="10,2,10,10" IsReadOnly="True"/>
             </StackPanel>
         </Grid>
         <Grid Height="500" Width="300" Background="Silver" Margin="10,0,0,0" x:Name="CompareTwo" VerticalAlignment="Top">
@@ -60,14 +62,16 @@
             </Grid.ColumnDefinitions>
             <StackPanel Grid.Column="1" Grid.Row="1">
                 <TextBlock Text="{Binding Name}" Style="{StaticResource HeaderTextStyle}" Margin="10,0,0,20"/>
-                <TextBlock Text="Thing1: "/>
-                <TextBox TextAlignment="Center" Text="{Binding Thing1}" Margin="10,2,10,10"/>
-                <TextBlock  Text="Thing2: "/>
-                <TextBox TextAlignment="Center" Text="{Binding Thing2}" Margin="10,2,10,10"/>
-                <TextBlock  Text="Thing3: "/>
-                <TextBox TextAlignment="Center" Text="{Binding Thing3}" Margin="10,2,10,10"/>
-                <TextBlock  Text="Thing4: "/>
-                <TextBox TextAlignment="Center" Text="{Binding Thing4}" Margin="10,2,10,10"/>
+                <TextBlock Text="Latest Record (year): "/>
+                <TextBox TextAlignment="Center" Text="{Binding LatestYear}" Margin="10,2,10,10" IsReadOnly="True"/>
+                <TextBlock  Text="Oil - Produced: "/>
+                <TextBox TextAlignment="Center" Text="{Binding Oil_Production}" Margin="10,2,10,10" IsReadOnly="True"/>
+                <TextBlock  Text="Oil - Price.: "/>
+                <TextBox TextAlignment="Center" Text="{Binding Oil_Price}" Margin="10,2,10,10" IsReadOnly="True"/>
+                <TextBlock  Text="Gas - Produced: "/>
+                <TextBox TextAlignment="Center" Text="{Binding Gas_Production}" Margin="10,2,10,10" IsReadOnly="True"/>
+                <TextBlock  Text="Gas - Price: "/>
+                <TextBox TextAlignment="Center" Text="{Binding Gas_Price}" Margin="10,2,10,10" IsReadOnly="True"/>
             </StackPanel>
         </Grid>
         </StackPanel>

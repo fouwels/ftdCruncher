@@ -111,6 +111,10 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\ftdCruncher.data\ftdCruncher.Data.csproj">
+      <Project>{bf3fae18-3df0-4cb7-86fb-cd8783c94e47}</Project>
+      <Name>ftdCruncher.Data</Name>
+    </ProjectReference>
     <ProjectReference Include="..\ftdCruncher.Templates\ftdCruncher.Templates.csproj">
       <Project>{445fa995-869b-4186-9f67-ef0add437151}</Project>
       <Name>ftdCruncher.Templates</Name>

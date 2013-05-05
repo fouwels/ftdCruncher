@@ -9,10 +9,10 @@ namespace ftdCruncher.Templates
     public class CountryProfile
     {
         public string Name { get; set; }
-        public int Thing1 { get; set; }
-        public int Thing2 { get; set; }
-        public int Thing3 { get; set; }
-        public int Thing4 { get; set; }
-        public int Thing5 { get; set; }
+        public long LatestYear { get; set; }
+        public long Oil_Production { get; set; }
+        public double Oil_Price { get; set; }
+        public long  Gas_Production { get; set; }
+        public double Gas_Price { get; set; }
     }
 }

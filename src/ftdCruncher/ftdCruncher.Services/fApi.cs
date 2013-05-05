@@ -1,8 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.IO;
-using System.Linq;
-using System.Text;
 using System.Threading.Tasks;
 using ftdCruncher.Templates.ApiResponses;
 using System.Net;
@@ -13,10 +11,15 @@ namespace ftdCruncher.Services
     public class FApi
     {
 
-        public async Task<CountryResponseRootObject> GetCountries()
+        public async Task<List<CountryResponseRootObject>> GetCountries()
         {
-            var x = JsonConvert.DeserializeObject<CountryResponseRootObject>(await Gapi("http://liverugbydata.com/followthedata/api/country"));
-            return x;
+            
+            //time wasting
+            var y = await Gapi("http://liverugbydata.com/followthedata/api/country");
+            await Task.Delay(3000);
+            //var x = JsonConvert.DeserializeObject<CountryResponseRootObject>(y).countries;
+            
+            return new List<CountryResponseRootObject>();
 
         }
         private async static Task<string> Gapi(string url)
