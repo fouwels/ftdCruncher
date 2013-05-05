@@ -22,8 +22,8 @@
             <ColumnDefinition/>
         </Grid.ColumnDefinitions>
         <TextBlock x:Name="pageTitle" Text="ftdCruncher" Grid.Column="1" IsHitTestVisible="false" Style="{StaticResource PageHeaderTextStyle}"/>
-        
-        <GridView x:ConnectionId='1' Grid.Column="0" Grid.ColumnSpan="2" Grid.Row="1" x:Name="MainContentWindow" ItemsSource="{Binding}"                                    >
+        <GridView x:ConnectionId='1' Grid.Column="0" Grid.ColumnSpan="2" Grid.Row="1" x:Name="MainContentWindow" ItemsSource="{Binding}"                                     SelectionMode="Multiple"
+                  x:FieldModifier="public">
             <GridView.Header>
                 <TextBlock Text="" Width="100"/>
             </GridView.Header>

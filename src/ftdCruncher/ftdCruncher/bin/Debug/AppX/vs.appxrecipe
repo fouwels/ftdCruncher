@@ -16,17 +16,17 @@
     <AppXManifest Include="F:\ftdCruncher\src\ftdCruncher\ftdCruncher\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2013-05-04T20:45:39.007</Modified>
+      <Modified>2013-05-05T07:15:37.739</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="F:\ftdCruncher\src\ftdCruncher\ftdCruncher\bin\Debug\ftdCruncher.exe">
       <PackagePath>ftdCruncher.exe</PackagePath>
-      <Modified>2013-05-04T20:56:02.137</Modified>
+      <Modified>2013-05-05T08:20:24.355</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="F:\ftdCruncher\src\ftdCruncher\ftdCruncher\bin\Debug\ftdCruncher.pdb">
       <PackagePath>ftdCruncher.pdb</PackagePath>
-      <Modified>2013-05-04T20:56:02.097</Modified>
+      <Modified>2013-05-05T08:20:24.314</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="F:\ftdCruncher\src\ftdCruncher\ftdCruncher.data\bin\Debug\ftdCruncher.data.pdb">
       <PackagePath>ftdCruncher.data.pdb</PackagePath>
@@ -38,7 +38,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="F:\ftdCruncher\src\ftdCruncher\ftdCruncher.Services\bin\Debug\ftdCruncher.Services.pdb">
       <PackagePath>ftdCruncher.Services.pdb</PackagePath>
-      <Modified>2013-05-04T20:55:49.846</Modified>
+      <Modified>2013-05-05T06:22:08.723</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="F:\ftdCruncher\src\ftdCruncher\ftdCruncher.data\bin\Debug\ftdCruncher.data.dll">
       <PackagePath>ftdCruncher.data.dll</PackagePath>
@@ -46,7 +46,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="F:\ftdCruncher\src\ftdCruncher\ftdCruncher.Services\bin\Debug\ftdCruncher.Services.dll">
       <PackagePath>ftdCruncher.Services.dll</PackagePath>
-      <Modified>2013-05-04T20:55:49.884</Modified>
+      <Modified>2013-05-05T06:22:08.764</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="F:\ftdCruncher\src\ftdCruncher\ftdCruncher.Templates\bin\Debug\ftdCruncher.Templates.dll">
       <PackagePath>ftdCruncher.Templates.dll</PackagePath>
@@ -94,7 +94,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="F:\ftdCruncher\src\ftdCruncher\ftdCruncher\bin\Debug\Pages\MainPage.xaml">
       <PackagePath>Pages\MainPage.xaml</PackagePath>
-      <Modified>2013-05-04T19:07:45.019</Modified>
+      <Modified>2013-05-05T08:09:37.197</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="F:\ftdCruncher\src\ftdCruncher\ftdCruncher\bin\Debug\Pages\RumblePage.xaml">
       <PackagePath>Pages\RumblePage.xaml</PackagePath>

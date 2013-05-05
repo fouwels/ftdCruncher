@@ -74,10 +74,13 @@ namespace ftdCruncher
 
         private void MainContentWindow_OnTapped(object sender, TappedRoutedEventArgs e)
         {
-            var fr = new Frame();
-            fr.Navigate(typeof(ComparePage));
-            Window.Current.Content = fr;
-            Window.Current.Activate();
+            if (!(MainContentWindow.SelectedItems.Count < 2))
+            {
+                var fr = new Frame();
+                fr.Navigate(typeof(ComparePage), MainContentWindow);
+                Window.Current.Content = fr;
+                Window.Current.Activate();
+            }
         }
     }
 }

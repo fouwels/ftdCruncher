@@ -19,7 +19,7 @@ namespace ftdCruncher.Services
             return x;
 
         }
-        private async Task<string> Gapi(string url)
+        private async static Task<string> Gapi(string url)
         {
             var req = (HttpWebRequest) HttpWebRequest.Create(url);
             req.ContentType = "application/json";

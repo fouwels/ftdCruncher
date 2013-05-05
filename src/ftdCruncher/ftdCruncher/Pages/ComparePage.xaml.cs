@@ -33,8 +33,10 @@ namespace ftdCruncher.Pages
         /// property is typically used to configure the page.</param>
         protected override void OnNavigatedTo(NavigationEventArgs e)
         {
-            CompareOne.DataContext = FilingCabinet.CountryProfiles[0];
-            CompareTwo.DataContext = FilingCabinet.CountryProfiles[1];
+            var x = (GridView) e.Parameter;
+            CompareOne.DataContext = x.SelectedItems[0];
+            CompareTwo.DataContext = x.SelectedItems[1];
+
         }
 
         private void backButton_Tapped(object sender, TappedRoutedEventArgs e)
