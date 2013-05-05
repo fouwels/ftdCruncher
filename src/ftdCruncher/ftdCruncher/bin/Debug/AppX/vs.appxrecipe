@@ -22,11 +22,11 @@
   <ItemGroup>
     <AppxPackagedFile Include="F:\ftdCruncher\src\ftdCruncher\ftdCruncher\bin\Debug\ftdCruncher.exe">
       <PackagePath>ftdCruncher.exe</PackagePath>
-      <Modified>2013-05-05T13:16:24.331</Modified>
+      <Modified>2013-05-05T13:59:21.215</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="F:\ftdCruncher\src\ftdCruncher\ftdCruncher\bin\Debug\ftdCruncher.pdb">
       <PackagePath>ftdCruncher.pdb</PackagePath>
-      <Modified>2013-05-05T13:16:24.288</Modified>
+      <Modified>2013-05-05T13:59:21.163</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="F:\ftdCruncher\src\ftdCruncher\ftdCruncher.data\bin\Debug\ftdCruncher.data.pdb">
       <PackagePath>ftdCruncher.data.pdb</PackagePath>

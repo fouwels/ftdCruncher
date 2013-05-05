@@ -1,1 +1,1 @@
-F:\ftdCruncher\src\ftdCruncher\ftdCruncher\AppPackages\ftdCruncher_1.0.0.1_AnyCPU_Debug_Test\ftdCruncher_1.0.0.1_AnyCPU_Debug.appx
+F:\ftdCruncher\src\ftdCruncher\ftdCruncher\AppPackages\ftdCruncher_1.0.0.2_AnyCPU_Debug_Test\ftdCruncher_1.0.0.2_AnyCPU_Debug.appx

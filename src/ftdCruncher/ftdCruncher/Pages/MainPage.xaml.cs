@@ -138,11 +138,39 @@ namespace ftdCruncher
             FilingCabinet.CountryProfiles.Add(new CountryProfile
             {
                 Name = "Peru",
-                LatestYear = 200,
+                LatestYear = 2007,
                 Oil_Production = 774456000,
                 Oil_Price = 101.43,
                 Gas_Production = 35000000000,
                 Gas_Price = 0.328797
+            });
+
+            FilingCabinet.CountryProfiles.Add(new CountryProfile
+            {
+                Name = "Tanzania",
+                LatestYear = 2009,
+                Oil_Production = 608811628,
+                Oil_Price = 0.473025,
+                Gas_Production = 0,
+                Gas_Price = 0
+            });
+            FilingCabinet.CountryProfiles.Add(new CountryProfile
+            {
+                Name = "Timor Leste",
+                LatestYear = 2008,
+                Oil_Production = 608811628,
+                Oil_Price = 0.473025,
+                Gas_Production = 0,
+                Gas_Price = 0.328797
+            });
+            FilingCabinet.CountryProfiles.Add(new CountryProfile
+            {
+                Name = "Yemen",
+                LatestYear = 2005,
+                Oil_Production = 151840000,
+                Oil_Price = 51.448448,
+                Gas_Production = 0,
+                Gas_Price = 53.49
             });
         }
         protected override void OnNavigatedTo(NavigationEventArgs e)
