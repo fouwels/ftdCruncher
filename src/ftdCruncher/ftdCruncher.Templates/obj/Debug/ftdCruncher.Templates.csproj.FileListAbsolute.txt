@@ -12,3 +12,13 @@ F:\ftdCruncher\src\ftdCruncher\ftdCruncher.Templates\obj\Debug\priconfig.xml.int
 F:\ftdCruncher\src\ftdCruncher\ftdCruncher.Templates\obj\Debug\layout.resfiles.intermediate
 F:\ftdCruncher\src\ftdCruncher\ftdCruncher.Templates\obj\Debug\resources.resfiles.intermediate
 F:\ftdCruncher\src\ftdCruncher\ftdCruncher.Templates\obj\Debug\pri.resfiles.intermediate
+F:\User1\SkyDrive\MyDocs\dev\Work\Hacks\2013\Follow-the-Data\ftdCruncher\src\ftdCruncher\ftdCruncher.Templates\bin\Debug\ftdCruncher.Templates.dll
+F:\User1\SkyDrive\MyDocs\dev\Work\Hacks\2013\Follow-the-Data\ftdCruncher\src\ftdCruncher\ftdCruncher.Templates\bin\Debug\ftdCruncher.Templates.pdb
+F:\User1\SkyDrive\MyDocs\dev\Work\Hacks\2013\Follow-the-Data\ftdCruncher\src\ftdCruncher\ftdCruncher.Templates\bin\Debug\ftdCruncher.Templates.pri
+F:\User1\SkyDrive\MyDocs\dev\Work\Hacks\2013\Follow-the-Data\ftdCruncher\src\ftdCruncher\ftdCruncher.Templates\obj\Debug\ftdCruncher.Templates.dll
+F:\User1\SkyDrive\MyDocs\dev\Work\Hacks\2013\Follow-the-Data\ftdCruncher\src\ftdCruncher\ftdCruncher.Templates\obj\Debug\ftdCruncher.Templates.pdb
+F:\User1\SkyDrive\MyDocs\dev\Work\Hacks\2013\Follow-the-Data\ftdCruncher\src\ftdCruncher\ftdCruncher.Templates\obj\Debug\priconfig.xml
+F:\User1\SkyDrive\MyDocs\dev\Work\Hacks\2013\Follow-the-Data\ftdCruncher\src\ftdCruncher\ftdCruncher.Templates\obj\Debug\layout.resfiles
+F:\User1\SkyDrive\MyDocs\dev\Work\Hacks\2013\Follow-the-Data\ftdCruncher\src\ftdCruncher\ftdCruncher.Templates\obj\Debug\resources.resfiles
+F:\User1\SkyDrive\MyDocs\dev\Work\Hacks\2013\Follow-the-Data\ftdCruncher\src\ftdCruncher\ftdCruncher.Templates\obj\Debug\pri.resfiles
+F:\User1\SkyDrive\MyDocs\dev\Work\Hacks\2013\Follow-the-Data\ftdCruncher\src\ftdCruncher\ftdCruncher.Templates\obj\Debug\LanguageQualifiers.txt

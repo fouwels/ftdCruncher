@@ -7,10 +7,10 @@
 
     For more information on package manifest files, see http://go.microsoft.com/fwlink/?LinkID=241727
   -->
-  <Identity Name="b4a49729-312f-41d1-98ef-d522588c9b2f" Publisher="CN=Kaelan" Version="1.0.0.1" ProcessorArchitecture="neutral" />
+  <Identity Name="62437KaelanFouwels.ftdCruncher" Publisher="CN=4C91A7DA-848F-4212-A7C6-297D8A82BFA6" Version="1.0.0.6" ProcessorArchitecture="neutral" />
   <Properties>
     <DisplayName>ftdCruncher</DisplayName>
-    <PublisherDisplayName>Kaelan</PublisherDisplayName>
+    <PublisherDisplayName>Kaelan Fouwels</PublisherDisplayName>
     <Logo>Assets\StoreLogo.png</Logo>
   </Properties>
   <Prerequisites>
@@ -22,7 +22,7 @@
   </Resources>
   <Applications>
     <Application Id="App" Executable="ftdCruncher.exe" EntryPoint="ftdCruncher.App">
-      <VisualElements DisplayName="ftdCruncher" Logo="Assets\Logo.png" SmallLogo="Assets\SmallLogo.png" Description="ftdCruncher" ForegroundText="light" BackgroundColor="#464646">
+      <VisualElements DisplayName="ftdCruncher" Logo="Assets\Logo.png" SmallLogo="Assets\SmallLogo.png" Description="Crunchin' the FTD data into pretty flash cards." ForegroundText="light" BackgroundColor="#464646">
         <DefaultTile ShowName="allLogos" />
         <SplashScreen Image="Assets\SplashScreen.png" />
       </VisualElements>

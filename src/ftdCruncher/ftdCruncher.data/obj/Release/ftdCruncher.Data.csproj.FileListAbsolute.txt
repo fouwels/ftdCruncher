@@ -1,0 +1,14 @@
+F:\User1\SkyDrive\MyDocs\dev\Work\Hacks\2013\Follow-the-Data\ftdCruncher\src\ftdCruncher\ftdCruncher.data\bin\Release\ftdCruncher.data.dll
+F:\User1\SkyDrive\MyDocs\dev\Work\Hacks\2013\Follow-the-Data\ftdCruncher\src\ftdCruncher\ftdCruncher.data\bin\Release\ftdCruncher.data.pdb
+F:\User1\SkyDrive\MyDocs\dev\Work\Hacks\2013\Follow-the-Data\ftdCruncher\src\ftdCruncher\ftdCruncher.data\bin\Release\ftdCruncher.data.pri
+F:\User1\SkyDrive\MyDocs\dev\Work\Hacks\2013\Follow-the-Data\ftdCruncher\src\ftdCruncher\ftdCruncher.data\bin\Release\ftdCruncher.Templates.dll
+F:\User1\SkyDrive\MyDocs\dev\Work\Hacks\2013\Follow-the-Data\ftdCruncher\src\ftdCruncher\ftdCruncher.data\bin\Release\ftdCruncher.Templates.pdb
+F:\User1\SkyDrive\MyDocs\dev\Work\Hacks\2013\Follow-the-Data\ftdCruncher\src\ftdCruncher\ftdCruncher.data\bin\Release\ftdCruncher.Templates.pri
+F:\User1\SkyDrive\MyDocs\dev\Work\Hacks\2013\Follow-the-Data\ftdCruncher\src\ftdCruncher\ftdCruncher.data\obj\Release\ftdCruncher.Data.csprojResolveAssemblyReference.cache
+F:\User1\SkyDrive\MyDocs\dev\Work\Hacks\2013\Follow-the-Data\ftdCruncher\src\ftdCruncher\ftdCruncher.data\obj\Release\ftdCruncher.data.dll
+F:\User1\SkyDrive\MyDocs\dev\Work\Hacks\2013\Follow-the-Data\ftdCruncher\src\ftdCruncher\ftdCruncher.data\obj\Release\ftdCruncher.data.pdb
+F:\User1\SkyDrive\MyDocs\dev\Work\Hacks\2013\Follow-the-Data\ftdCruncher\src\ftdCruncher\ftdCruncher.data\obj\Release\priconfig.xml
+F:\User1\SkyDrive\MyDocs\dev\Work\Hacks\2013\Follow-the-Data\ftdCruncher\src\ftdCruncher\ftdCruncher.data\obj\Release\layout.resfiles
+F:\User1\SkyDrive\MyDocs\dev\Work\Hacks\2013\Follow-the-Data\ftdCruncher\src\ftdCruncher\ftdCruncher.data\obj\Release\resources.resfiles
+F:\User1\SkyDrive\MyDocs\dev\Work\Hacks\2013\Follow-the-Data\ftdCruncher\src\ftdCruncher\ftdCruncher.data\obj\Release\pri.resfiles
+F:\User1\SkyDrive\MyDocs\dev\Work\Hacks\2013\Follow-the-Data\ftdCruncher\src\ftdCruncher\ftdCruncher.data\obj\Release\LanguageQualifiers.txt

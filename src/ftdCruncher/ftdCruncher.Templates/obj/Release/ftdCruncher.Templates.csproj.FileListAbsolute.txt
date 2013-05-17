@@ -1,0 +1,14 @@
+F:\User1\SkyDrive\MyDocs\dev\Work\Hacks\2013\Follow-the-Data\ftdCruncher\src\ftdCruncher\ftdCruncher.Templates\bin\Release\ftdCruncher.Templates.dll
+F:\User1\SkyDrive\MyDocs\dev\Work\Hacks\2013\Follow-the-Data\ftdCruncher\src\ftdCruncher\ftdCruncher.Templates\bin\Release\ftdCruncher.Templates.pdb
+F:\User1\SkyDrive\MyDocs\dev\Work\Hacks\2013\Follow-the-Data\ftdCruncher\src\ftdCruncher\ftdCruncher.Templates\bin\Release\ftdCruncher.Templates.pri
+F:\User1\SkyDrive\MyDocs\dev\Work\Hacks\2013\Follow-the-Data\ftdCruncher\src\ftdCruncher\ftdCruncher.Templates\obj\Release\ftdCruncher.Templates.dll
+F:\User1\SkyDrive\MyDocs\dev\Work\Hacks\2013\Follow-the-Data\ftdCruncher\src\ftdCruncher\ftdCruncher.Templates\obj\Release\ftdCruncher.Templates.pdb
+F:\User1\SkyDrive\MyDocs\dev\Work\Hacks\2013\Follow-the-Data\ftdCruncher\src\ftdCruncher\ftdCruncher.Templates\obj\Release\priconfig.xml.intermediate
+F:\User1\SkyDrive\MyDocs\dev\Work\Hacks\2013\Follow-the-Data\ftdCruncher\src\ftdCruncher\ftdCruncher.Templates\obj\Release\layout.resfiles.intermediate
+F:\User1\SkyDrive\MyDocs\dev\Work\Hacks\2013\Follow-the-Data\ftdCruncher\src\ftdCruncher\ftdCruncher.Templates\obj\Release\resources.resfiles.intermediate
+F:\User1\SkyDrive\MyDocs\dev\Work\Hacks\2013\Follow-the-Data\ftdCruncher\src\ftdCruncher\ftdCruncher.Templates\obj\Release\pri.resfiles.intermediate
+F:\User1\SkyDrive\MyDocs\dev\Work\Hacks\2013\Follow-the-Data\ftdCruncher\src\ftdCruncher\ftdCruncher.Templates\obj\Release\priconfig.xml
+F:\User1\SkyDrive\MyDocs\dev\Work\Hacks\2013\Follow-the-Data\ftdCruncher\src\ftdCruncher\ftdCruncher.Templates\obj\Release\layout.resfiles
+F:\User1\SkyDrive\MyDocs\dev\Work\Hacks\2013\Follow-the-Data\ftdCruncher\src\ftdCruncher\ftdCruncher.Templates\obj\Release\resources.resfiles
+F:\User1\SkyDrive\MyDocs\dev\Work\Hacks\2013\Follow-the-Data\ftdCruncher\src\ftdCruncher\ftdCruncher.Templates\obj\Release\pri.resfiles
+F:\User1\SkyDrive\MyDocs\dev\Work\Hacks\2013\Follow-the-Data\ftdCruncher\src\ftdCruncher\ftdCruncher.Templates\obj\Release\LanguageQualifiers.txt

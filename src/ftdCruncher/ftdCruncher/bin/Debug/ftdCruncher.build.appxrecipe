@@ -7,74 +7,74 @@
     <PackageArchitecture>neutral</PackageArchitecture>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="F:\ftdCruncher\src\ftdCruncher\ftdCruncher\bin\Debug\AppxManifest.xml">
+    <AppXManifest Include="F:\User1\SkyDrive\MyDocs\dev\Work\Hacks\2013\Follow-the-Data\ftdCruncher\src\ftdCruncher\ftdCruncher\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="F:\ftdCruncher\src\ftdCruncher\ftdCruncher\bin\Debug\ftdCruncher.exe">
+    <AppxPackagedFile Include="F:\User1\SkyDrive\MyDocs\dev\Work\Hacks\2013\Follow-the-Data\ftdCruncher\src\ftdCruncher\ftdCruncher\bin\Debug\ftdCruncher.exe">
       <PackagePath>ftdCruncher.exe</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\ftdCruncher\src\ftdCruncher\ftdCruncher\bin\Debug\ftdCruncher.pdb">
+    <AppxPackagedFile Include="F:\User1\SkyDrive\MyDocs\dev\Work\Hacks\2013\Follow-the-Data\ftdCruncher\src\ftdCruncher\ftdCruncher\bin\Debug\ftdCruncher.pdb">
       <PackagePath>ftdCruncher.pdb</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\ftdCruncher\src\ftdCruncher\ftdCruncher.data\bin\Debug\ftdCruncher.data.pdb">
+    <AppxPackagedFile Include="F:\User1\SkyDrive\MyDocs\dev\Work\Hacks\2013\Follow-the-Data\ftdCruncher\src\ftdCruncher\ftdCruncher.data\bin\Debug\ftdCruncher.data.pdb">
       <PackagePath>ftdCruncher.data.pdb</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\ftdCruncher\src\ftdCruncher\ftdCruncher.Templates\bin\Debug\ftdCruncher.Templates.pdb">
+    <AppxPackagedFile Include="F:\User1\SkyDrive\MyDocs\dev\Work\Hacks\2013\Follow-the-Data\ftdCruncher\src\ftdCruncher\ftdCruncher.Templates\bin\Debug\ftdCruncher.Templates.pdb">
       <PackagePath>ftdCruncher.Templates.pdb</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\ftdCruncher\src\ftdCruncher\ftdCruncher.Services\bin\Debug\ftdCruncher.Services.pdb">
+    <AppxPackagedFile Include="F:\User1\SkyDrive\MyDocs\dev\Work\Hacks\2013\Follow-the-Data\ftdCruncher\src\ftdCruncher\ftdCruncher.Services\bin\Debug\ftdCruncher.Services.pdb">
       <PackagePath>ftdCruncher.Services.pdb</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\ftdCruncher\src\ftdCruncher\ftdCruncher.data\bin\Debug\ftdCruncher.data.dll">
+    <AppxPackagedFile Include="F:\User1\SkyDrive\MyDocs\dev\Work\Hacks\2013\Follow-the-Data\ftdCruncher\src\ftdCruncher\ftdCruncher.data\bin\Debug\ftdCruncher.data.dll">
       <PackagePath>ftdCruncher.data.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\ftdCruncher\src\ftdCruncher\ftdCruncher.Services\bin\Debug\ftdCruncher.Services.dll">
+    <AppxPackagedFile Include="F:\User1\SkyDrive\MyDocs\dev\Work\Hacks\2013\Follow-the-Data\ftdCruncher\src\ftdCruncher\ftdCruncher.Services\bin\Debug\ftdCruncher.Services.dll">
       <PackagePath>ftdCruncher.Services.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\ftdCruncher\src\ftdCruncher\ftdCruncher.Templates\bin\Debug\ftdCruncher.Templates.dll">
+    <AppxPackagedFile Include="F:\User1\SkyDrive\MyDocs\dev\Work\Hacks\2013\Follow-the-Data\ftdCruncher\src\ftdCruncher\ftdCruncher.Templates\bin\Debug\ftdCruncher.Templates.dll">
       <PackagePath>ftdCruncher.Templates.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\ftdCruncher\src\ftdCruncher\packages\Newtonsoft.Json.5.0.4\lib\netcore45\Newtonsoft.Json.dll">
+    <AppxPackagedFile Include="F:\User1\SkyDrive\MyDocs\dev\Work\Hacks\2013\Follow-the-Data\ftdCruncher\src\ftdCruncher\packages\Newtonsoft.Json.5.0.4\lib\netcore45\Newtonsoft.Json.dll">
       <PackagePath>Newtonsoft.Json.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\ftdCruncher\src\ftdCruncher\ftdCruncher\Assets\Logo.png">
-      <PackagePath>Assets\Logo.png</PackagePath>
+    <AppxPackagedFile Include="F:\User1\SkyDrive\MyDocs\dev\Work\Hacks\2013\Follow-the-Data\ftdCruncher\src\ftdCruncher\ftdCruncher\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\ftdCruncher\src\ftdCruncher\ftdCruncher\Assets\SmallLogo.png">
+    <AppxPackagedFile Include="F:\User1\SkyDrive\MyDocs\dev\Work\Hacks\2013\Follow-the-Data\ftdCruncher\src\ftdCruncher\ftdCruncher\Assets\SmallLogo.png">
       <PackagePath>Assets\SmallLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\ftdCruncher\src\ftdCruncher\ftdCruncher\Assets\SplashScreen.png">
+    <AppxPackagedFile Include="F:\User1\SkyDrive\MyDocs\dev\Work\Hacks\2013\Follow-the-Data\ftdCruncher\src\ftdCruncher\ftdCruncher\Assets\SplashScreen.png">
       <PackagePath>Assets\SplashScreen.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\ftdCruncher\src\ftdCruncher\ftdCruncher\Assets\StoreLogo.png">
-      <PackagePath>Assets\StoreLogo.png</PackagePath>
+    <AppxPackagedFile Include="F:\User1\SkyDrive\MyDocs\dev\Work\Hacks\2013\Follow-the-Data\ftdCruncher\src\ftdCruncher\ftdCruncher\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\ftdCruncher\src\ftdCruncher\ftdCruncher\bin\Debug\App.xaml">
+    <AppxPackagedFile Include="F:\User1\SkyDrive\MyDocs\dev\Work\Hacks\2013\Follow-the-Data\ftdCruncher\src\ftdCruncher\ftdCruncher\bin\Debug\App.xaml">
       <PackagePath>App.xaml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\ftdCruncher\src\ftdCruncher\ftdCruncher\bin\Debug\Common\StandardStyles.xaml">
+    <AppxPackagedFile Include="F:\User1\SkyDrive\MyDocs\dev\Work\Hacks\2013\Follow-the-Data\ftdCruncher\src\ftdCruncher\ftdCruncher\bin\Debug\Common\StandardStyles.xaml">
       <PackagePath>Common\StandardStyles.xaml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\ftdCruncher\src\ftdCruncher\ftdCruncher\bin\Debug\Pages\ComparePage.xaml">
+    <AppxPackagedFile Include="F:\User1\SkyDrive\MyDocs\dev\Work\Hacks\2013\Follow-the-Data\ftdCruncher\src\ftdCruncher\ftdCruncher\bin\Debug\Pages\ComparePage.xaml">
       <PackagePath>Pages\ComparePage.xaml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\ftdCruncher\src\ftdCruncher\ftdCruncher\bin\Debug\Pages\MainPage.xaml">
+    <AppxPackagedFile Include="F:\User1\SkyDrive\MyDocs\dev\Work\Hacks\2013\Follow-the-Data\ftdCruncher\src\ftdCruncher\ftdCruncher\bin\Debug\Pages\MainPage.xaml">
       <PackagePath>Pages\MainPage.xaml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\ftdCruncher\src\ftdCruncher\ftdCruncher\bin\Debug\Pages\RumblePage.xaml">
+    <AppxPackagedFile Include="F:\User1\SkyDrive\MyDocs\dev\Work\Hacks\2013\Follow-the-Data\ftdCruncher\src\ftdCruncher\ftdCruncher\bin\Debug\Pages\RumblePage.xaml">
       <PackagePath>Pages\RumblePage.xaml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\ftdCruncher\src\ftdCruncher\packages\Newtonsoft.Json.5.0.4\lib\netcore45\Newtonsoft.Json.xml">
+    <AppxPackagedFile Include="F:\User1\SkyDrive\MyDocs\dev\Work\Hacks\2013\Follow-the-Data\ftdCruncher\src\ftdCruncher\packages\Newtonsoft.Json.5.0.4\lib\netcore45\Newtonsoft.Json.xml">
       <PackagePath>Newtonsoft.Json.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\ftdCruncher\src\ftdCruncher\ftdCruncher\bin\Debug\resources.pri">
+    <AppxPackagedFile Include="F:\User1\SkyDrive\MyDocs\dev\Work\Hacks\2013\Follow-the-Data\ftdCruncher\src\ftdCruncher\ftdCruncher\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>

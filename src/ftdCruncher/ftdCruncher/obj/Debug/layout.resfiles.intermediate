@@ -1,7 +1,7 @@
-Assets\Logo.png
+Assets\Logo.scale-100.png
 Assets\SmallLogo.png
 Assets\SplashScreen.png
-Assets\StoreLogo.png
+Assets\StoreLogo.scale-100.png
 App.xaml
 Common\StandardStyles.xaml
 Pages\ComparePage.xaml
