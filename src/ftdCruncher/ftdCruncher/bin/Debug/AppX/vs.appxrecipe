@@ -5,52 +5,52 @@
     <WindowsUser>Kaelan</WindowsUser>
     <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
     <PackageArchitecture>neutral</PackageArchitecture>
-    <RegisteredManifestChecksum>D0A7A65A1F463F8D89205D89D21A17A17EEB3CA4FB5477F583B65E76C2306C10</RegisteredManifestChecksum>
-    <RegisteredPackageMoniker>62437KaelanFouwels.ftdCruncher_1.0.0.6_neutral__6r75q75q6254t</RegisteredPackageMoniker>
+    <RegisteredManifestChecksum>29533907B0BC851AF3DC66BD1CD1359AAED383856BBBD305156A9C735A62B735</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>62437KaelanFouwels.ftdCruncher_1.0.0.7_neutral__6r75q75q6254t</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>62437KaelanFouwels.ftdCruncher_6r75q75q6254t!App</RegisteredUserModeAppID>
     <RegisteredPackageID>62437KaelanFouwels.ftdCruncher</RegisteredPackageID>
     <RegisteredPackagePublisher>CN=4C91A7DA-848F-4212-A7C6-297D8A82BFA6</RegisteredPackagePublisher>
-    <RegisteredVersion>1.0.0.6</RegisteredVersion>
+    <RegisteredVersion>1.0.0.7</RegisteredVersion>
   </PropertyGroup>
   <ItemGroup>
     <AppXManifest Include="F:\User1\SkyDrive\MyDocs\dev\Work\Hacks\2013\Follow-the-Data\ftdCruncher\src\ftdCruncher\ftdCruncher\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2013-05-17T15:30:11.320</Modified>
+      <Modified>2013-05-18T09:46:32.413</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="F:\User1\SkyDrive\MyDocs\dev\Work\Hacks\2013\Follow-the-Data\ftdCruncher\src\ftdCruncher\ftdCruncher\bin\Debug\ftdCruncher.exe">
       <PackagePath>ftdCruncher.exe</PackagePath>
-      <Modified>2013-05-17T15:30:11.078</Modified>
+      <Modified>2013-05-18T09:46:31.899</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="F:\User1\SkyDrive\MyDocs\dev\Work\Hacks\2013\Follow-the-Data\ftdCruncher\src\ftdCruncher\ftdCruncher\bin\Debug\ftdCruncher.pdb">
       <PackagePath>ftdCruncher.pdb</PackagePath>
-      <Modified>2013-05-17T15:30:11.065</Modified>
+      <Modified>2013-05-18T09:46:31.878</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="F:\User1\SkyDrive\MyDocs\dev\Work\Hacks\2013\Follow-the-Data\ftdCruncher\src\ftdCruncher\ftdCruncher.data\bin\Debug\ftdCruncher.data.pdb">
       <PackagePath>ftdCruncher.data.pdb</PackagePath>
-      <Modified>2013-05-16T11:11:41.197</Modified>
+      <Modified>2013-05-18T09:46:29.246</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="F:\User1\SkyDrive\MyDocs\dev\Work\Hacks\2013\Follow-the-Data\ftdCruncher\src\ftdCruncher\ftdCruncher.Templates\bin\Debug\ftdCruncher.Templates.pdb">
       <PackagePath>ftdCruncher.Templates.pdb</PackagePath>
-      <Modified>2013-05-16T11:11:41.192</Modified>
+      <Modified>2013-05-18T09:46:28.495</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="F:\User1\SkyDrive\MyDocs\dev\Work\Hacks\2013\Follow-the-Data\ftdCruncher\src\ftdCruncher\ftdCruncher.Services\bin\Debug\ftdCruncher.Services.pdb">
       <PackagePath>ftdCruncher.Services.pdb</PackagePath>
-      <Modified>2013-05-16T11:13:30.172</Modified>
+      <Modified>2013-05-18T09:46:29.671</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="F:\User1\SkyDrive\MyDocs\dev\Work\Hacks\2013\Follow-the-Data\ftdCruncher\src\ftdCruncher\ftdCruncher.data\bin\Debug\ftdCruncher.data.dll">
       <PackagePath>ftdCruncher.data.dll</PackagePath>
-      <Modified>2013-05-16T11:11:41.197</Modified>
+      <Modified>2013-05-18T09:46:29.264</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="F:\User1\SkyDrive\MyDocs\dev\Work\Hacks\2013\Follow-the-Data\ftdCruncher\src\ftdCruncher\ftdCruncher.Services\bin\Debug\ftdCruncher.Services.dll">
       <PackagePath>ftdCruncher.Services.dll</PackagePath>
-      <Modified>2013-05-16T11:13:30.186</Modified>
+      <Modified>2013-05-18T09:46:29.683</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="F:\User1\SkyDrive\MyDocs\dev\Work\Hacks\2013\Follow-the-Data\ftdCruncher\src\ftdCruncher\ftdCruncher.Templates\bin\Debug\ftdCruncher.Templates.dll">
       <PackagePath>ftdCruncher.Templates.dll</PackagePath>
-      <Modified>2013-05-16T11:11:41.192</Modified>
+      <Modified>2013-05-18T09:46:28.510</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="F:\User1\SkyDrive\MyDocs\dev\Work\Hacks\2013\Follow-the-Data\ftdCruncher\src\ftdCruncher\packages\Newtonsoft.Json.5.0.4\lib\netcore45\Newtonsoft.Json.dll">
       <PackagePath>Newtonsoft.Json.dll</PackagePath>
@@ -102,7 +102,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="F:\User1\SkyDrive\MyDocs\dev\Work\Hacks\2013\Follow-the-Data\ftdCruncher\src\ftdCruncher\ftdCruncher\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2013-05-17T15:30:11.207</Modified>
+      <Modified>2013-05-18T09:46:32.179</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

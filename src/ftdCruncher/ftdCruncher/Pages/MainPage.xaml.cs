@@ -4,6 +4,7 @@ using System.IO;
 using System.Linq;
 using Windows.Foundation;
 using Windows.Foundation.Collections;
+using Windows.UI.ApplicationSettings;
 using Windows.UI.Xaml;
 using Windows.UI.Xaml.Controls;
 using Windows.UI.Xaml.Controls.Primitives;
@@ -173,6 +174,7 @@ namespace ftdCruncher
                 Gas_Price = 53.49
             });
         }
+
         protected override void OnNavigatedTo(NavigationEventArgs e)
         {
             MainContentWindow.DataContext = FilingCabinet.CountryProfiles;

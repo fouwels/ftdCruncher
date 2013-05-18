@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Package xmlns="http://schemas.microsoft.com/appx/2010/manifest">
-  <Identity Name="62437KaelanFouwels.ftdCruncher" Publisher="CN=4C91A7DA-848F-4212-A7C6-297D8A82BFA6" Version="1.0.0.6" />
+  <Identity Name="62437KaelanFouwels.ftdCruncher" Publisher="CN=4C91A7DA-848F-4212-A7C6-297D8A82BFA6" Version="1.0.0.9" />
   <Properties>
     <DisplayName>ftdCruncher</DisplayName>
     <PublisherDisplayName>Kaelan Fouwels</PublisherDisplayName>

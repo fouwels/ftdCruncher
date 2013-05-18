@@ -1,0 +1,81 @@
+﻿<Page
+    x:Class="ftdCruncher.Pages.ComparePage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:ftdCruncher.Pages"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="DarkGray">
+        <Grid.ChildrenTransitions>
+            <TransitionCollection>
+                <ContentThemeTransition/>
+            </TransitionCollection>
+        </Grid.ChildrenTransitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="120"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="120"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Button x:ConnectionId='1' x:Name="backButton" Style="{StaticResource BackButtonStyle}"                           />
+        <TextBlock x:Name="pageTitle" Text="Compare!" Grid.Column="1" IsHitTestVisible="false" Style="{StaticResource PageHeaderTextStyle}"/>
+        <StackPanel Orientation="Horizontal" Grid.Row="1" Grid.ColumnSpan="2" Grid.Column="0" HorizontalAlignment="Center">
+        <Grid Height="500" Width="300" Background="Silver" Margin="0,0,10,0" x:Name="CompareOne" VerticalAlignment="Top">
+                <Grid.RowDefinitions>
+                <RowDefinition Height="20" />
+                <RowDefinition/>
+                <RowDefinition Height="20" />
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="10"/>
+                <ColumnDefinition/>
+                <ColumnDefinition Width="10"/>
+            </Grid.ColumnDefinitions>
+            <StackPanel Grid.Column="1" Grid.Row="1">
+                <TextBlock Text="{Binding Name}" Style="{StaticResource HeaderTextStyle}" Margin="10,0,0,20"/>
+                <TextBlock Text="Latest Record (year): "/>
+                <TextBox TextAlignment="Center" Text="{Binding LatestYear}" Margin="10,2,10,10" IsReadOnly="True"/>
+                <TextBlock  Text="Oil - Produced: "/>
+                <TextBox TextAlignment="Center" Text="{Binding Oil_Production}" Margin="10,2,10,10" IsReadOnly="True"/>
+                <TextBlock  Text="Oil - Price.: "/>
+                <TextBox TextAlignment="Center" Text="{Binding Oil_Price}" Margin="10,2,10,10" IsReadOnly="True"/>
+                <TextBlock  Text="Gas - Produced: "/>
+                <TextBox TextAlignment="Center" Text="{Binding Gas_Production}" Margin="10,2,10,10" IsReadOnly="True"/>
+                <TextBlock  Text="Gas - Price: "/>
+                <TextBox TextAlignment="Center" Text="{Binding Gas_Price}" Margin="10,2,10,10" IsReadOnly="True"/>
+            </StackPanel>
+        </Grid>
+        <Grid Height="500" Width="300" Background="Silver" Margin="10,0,0,0" x:Name="CompareTwo" VerticalAlignment="Top">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="20" />
+                <RowDefinition/>
+                <RowDefinition Height="20" />
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="10"/>
+                <ColumnDefinition/>
+                <ColumnDefinition Width="10"/>
+            </Grid.ColumnDefinitions>
+            <StackPanel Grid.Column="1" Grid.Row="1">
+                <TextBlock Text="{Binding Name}" Style="{StaticResource HeaderTextStyle}" Margin="10,0,0,20"/>
+                <TextBlock Text="Latest Record (year): "/>
+                <TextBox TextAlignment="Center" Text="{Binding LatestYear}" Margin="10,2,10,10" IsReadOnly="True"/>
+                <TextBlock  Text="Oil - Produced: "/>
+                <TextBox TextAlignment="Center" Text="{Binding Oil_Production}" Margin="10,2,10,10" IsReadOnly="True"/>
+                <TextBlock  Text="Oil - Price.: "/>
+                <TextBox TextAlignment="Center" Text="{Binding Oil_Price}" Margin="10,2,10,10" IsReadOnly="True"/>
+                <TextBlock  Text="Gas - Produced: "/>
+                <TextBox TextAlignment="Center" Text="{Binding Gas_Production}" Margin="10,2,10,10" IsReadOnly="True"/>
+                <TextBlock  Text="Gas - Price: "/>
+                <TextBox TextAlignment="Center" Text="{Binding Gas_Price}" Margin="10,2,10,10" IsReadOnly="True"/>
+            </StackPanel>
+        </Grid>
+        </StackPanel>
+        
+    </Grid>
+</Page>
+

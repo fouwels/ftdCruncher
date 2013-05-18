@@ -373,5 +373,10 @@
     <MainPackageIdentityName>62437KaelanFouwels.UltimateResidentEvil6Walkthroug</MainPackageIdentityName>
     <MainPackageIdentityName>62437KaelanFouwels.UltimateSly3Walkthrough</MainPackageIdentityName>
   </AccountPackageIdentityNames>
-  <PackageInfoList LandingUrl="https://appdev.microsoft.com:443/StorePortals/Developer/Catalog/ReleaseAnchor/91d15d44-2425-4348-9953-1be33c4ea3fd" />
+  <PackageInfoList LandingUrl="https://appdev.microsoft.com:443/StorePortals/Developer/Catalog/ReleaseAnchor/91d15d44-2425-4348-9953-1be33c4ea3fd">
+    <PackageInfo>
+      <PackageArchitecture>neutral</PackageArchitecture>
+      <PackageMaxArchitectureVersion>1.0.0.5</PackageMaxArchitectureVersion>
+    </PackageInfo>
+  </PackageInfoList>
 </StoreAssociation>

@@ -7,7 +7,7 @@
 
     For more information on package manifest files, see http://go.microsoft.com/fwlink/?LinkID=241727
   -->
-  <Identity Name="62437KaelanFouwels.ftdCruncher" Publisher="CN=4C91A7DA-848F-4212-A7C6-297D8A82BFA6" Version="1.0.0.6" ProcessorArchitecture="neutral" />
+  <Identity Name="62437KaelanFouwels.ftdCruncher" Publisher="CN=4C91A7DA-848F-4212-A7C6-297D8A82BFA6" Version="1.0.0.7" ProcessorArchitecture="neutral" />
   <Properties>
     <DisplayName>ftdCruncher</DisplayName>
     <PublisherDisplayName>Kaelan Fouwels</PublisherDisplayName>
